@@ -1,5 +1,9 @@
 ## 50babies
 
-To start run:
+First run:
+
+    npm install
+
+Then, to start dev server:
 
     npm start
